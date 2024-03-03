@@ -1,15 +1,13 @@
 Internship at Prodigy InfoTech
 
 Internship Tasks
-Task 1: Visualization of Population Distribution
-Description:
-For Task 1, I was tasked with creating a visualization to analyze the distribution of a categorical or continuous variable using a sample dataset provided by the company. I used data sourced from the World Bank, which contained information about the total population of various countries over time.
+Task 1:
+Visualization of Population Distribution
 
 
 
-Task 2: Building a Decision Tree Classifier
-Description:
-Task 2 involved building a decision tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. For this task, I used the Bank Marketing dataset from the UCI Machine Learning Repository.
+Task 2:
+Building a Decision Tree Classifier
 
 
 
